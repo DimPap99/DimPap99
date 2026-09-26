@@ -1,7 +1,5 @@
 # Dimitris Papadimitriou
 
-In search for alpha.
-
 BSc in Informatics — University of Piraeus  
 MSc in Data Science & AI — Eindhoven University of Technology  
 PhD Candidate — National and Kapodistrian University of Athens
