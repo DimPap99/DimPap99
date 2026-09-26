@@ -1,16 +1,13 @@
-## Hi there 👋
+# Dimitris Papadimitriou
 
-<!--
-**DimPap99/DimPap99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In search for alpha.
 
-Here are some ideas to get you started:
+BSc in Informatics — University of Piraeus  
+MSc in Data Science & AI — Eindhoven University of Technology  
+PhD Candidate — National and Kapodistrian University of Athens
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research
+Machine Learning · Graph Algorithms · Optimization · Edge/Cloud Systems
+
+### Identity
+Tor: `dimpnoqssxwc7voezx3gkrlhvievncsxizvxhxwxzpo32vfbpmctn6yd.onion`
